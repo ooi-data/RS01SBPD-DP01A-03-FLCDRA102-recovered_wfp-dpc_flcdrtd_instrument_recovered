@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS01SBPD-DP01A-03-FLCDRA102-recovered_wfp-dpc_flcdrtd_instrument_recovered
-last_request: '2021-05-01T00:39:02.343723Z'
+last_request: '2021-07-19T18:36:26.299668Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPD-DP01A-03-FLCDRA102-recovered_wfp-dpc_flcdrtd_instrument_recovered/main/history/response.json
-status: success
+status: failed
